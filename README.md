@@ -1,4 +1,4 @@
-## Opa eu sou o Yan Leandro, sou programador de tecnologia!
+## Opa eu sou o Yan Leandro, sou programador front-end!
 
 <div align="center">
   <a href="https://github.com/ICEmallow1">
